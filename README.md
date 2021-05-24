@@ -41,6 +41,7 @@ EOF
 2 .Create a target pool :
 
 While you enter following command, it asks if you want to set it in `southasia` but press `n`, and then select `us-east1` (20) number.
+
 `gcloud compute target-pools create nginx-pool`
 
 3 .Create a managed instance group :
